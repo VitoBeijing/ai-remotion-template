@@ -1,4 +1,4 @@
-# template-2
+# template-3
 
 > 由 ds-remotion-dashboard 从「「Vibe知识大赏」看懂了熵增 ，就原谅了生」沉淀的可复用 Remotion 模版。
 
