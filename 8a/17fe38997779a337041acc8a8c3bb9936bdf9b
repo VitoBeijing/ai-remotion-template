@@ -1,0 +1,33 @@
+template-8/src/Composition.tsx
+  s_527b2f218802b5::t_c4632c4b6b1c95 1-106
+template-8/tsconfig.json
+  s_527b2f218802b5::t_c4632c4b6b1c95 1-20
+template-8/remotion.config.ts
+  s_527b2f218802b5::t_c4632c4b6b1c95 1-5
+template-8/.gitignore
+  s_527b2f218802b5::t_c4632c4b6b1c95 1-2
+template-8/README.md
+  s_527b2f218802b5::t_c4632c4b6b1c95 1-47
+template-8/package.json
+  s_527b2f218802b5::t_c4632c4b6b1c95 1-21
+template-8/src/Root.tsx
+  s_527b2f218802b5::t_c4632c4b6b1c95 1-9
+template-8/src/index.ts
+  s_527b2f218802b5::t_c4632c4b6b1c95 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "8a17fe38997779a337041acc8a8c3bb9936bdf9b",
+  "prompts": {},
+  "sessions": {
+    "s_527b2f218802b5": {
+      "agent_id": {
+        "tool": "deepseekharness",
+        "id": "session-406e1c91-e387-46be-b36a-b8351b33d8a3",
+        "model": "kimi-k3"
+      },
+      "human_author": "hanxiao <hanx25@trip.com>"
+    }
+  }
+}
