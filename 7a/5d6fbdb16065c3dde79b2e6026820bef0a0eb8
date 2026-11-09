@@ -1,0 +1,21 @@
+template-fourier-wave-visualizer/README.md
+  s_527b2f218802b5::t_0401ebf21283eb 11,21,32-33
+template-fourier-wave-visualizer/src/Composition.tsx
+  s_527b2f218802b5::t_0401ebf21283eb 25-51,53-54,56-69,71-74,78-79,82-101,104-105,108-112,115,118-119,129,148-157,160-161,163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "7a5d6fbdb16065c3dde79b2e6026820bef0a0eb8",
+  "prompts": {},
+  "sessions": {
+    "s_527b2f218802b5": {
+      "agent_id": {
+        "tool": "deepseekharness",
+        "id": "session-406e1c91-e387-46be-b36a-b8351b33d8a3",
+        "model": "DeepSeek-V4-Pro-discount"
+      },
+      "human_author": "hanxiao <hanx25@trip.com>"
+    }
+  }
+}
