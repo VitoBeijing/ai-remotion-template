@@ -1,0 +1,30 @@
+shared/tsconfig.json
+  s_527b2f218802b5::t_be8ada0bbaf7aa 9,15
+shared/src/Root.tsx
+  s_527b2f218802b5::t_a0142257bac6c9 1-2,4,8-19
+shared/src/lib/props.ts
+  s_527b2f218802b5::t_485bf64350f721 1-2
+shared/package.json
+  s_527b2f218802b5::t_bcfa0a57ca7ea6 2,6,19-20
+shared/src/lib/anim.ts
+  s_527b2f218802b5::t_2d55d37fd3554a 1,3,6-10,12-13,15-18
+shared/src/compositions/index.ts
+  s_527b2f218802b5::t_715ca44bc5c560 5,16-17
+  s_527b2f218802b5::t_498132c22de95b 1-4,6-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "fd9180636e561664e3bbb2e74a89fce5f99036e1",
+  "prompts": {},
+  "sessions": {
+    "s_527b2f218802b5": {
+      "agent_id": {
+        "tool": "deepseekharness",
+        "id": "session-406e1c91-e387-46be-b36a-b8351b33d8a3",
+        "model": "kimi-k3"
+      },
+      "human_author": "hanxiao <hanx25@trip.com>"
+    }
+  }
+}
