@@ -1,0 +1,15 @@
+{
+  "id": "template",
+  "durationInFrames": 450,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "defaultProps": {
+    "title": "「Vibe知识大赏」看懂了熵增 ，就原谅了生",
+    "subtitle": "扁平插画 · 文字排版动画",
+    "bgFrom": "#fef3c7",
+    "bgTo": "#fde68a",
+    "accentFrom": "#f97316",
+    "accentTo": "#fbbf24"
+  }
+}
