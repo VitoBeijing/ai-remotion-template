@@ -1,0 +1,33 @@
+template-7/remotion.config.ts
+  s_527b2f218802b5::t_92c01b0414f870 1-5
+template-7/tsconfig.json
+  s_527b2f218802b5::t_92c01b0414f870 1-20
+template-7/package.json
+  s_527b2f218802b5::t_92c01b0414f870 1-21
+template-7/.gitignore
+  s_527b2f218802b5::t_92c01b0414f870 1-2
+template-7/README.md
+  s_527b2f218802b5::t_92c01b0414f870 1-47
+template-7/src/Composition.tsx
+  s_527b2f218802b5::t_92c01b0414f870 1-106
+template-7/src/Root.tsx
+  s_527b2f218802b5::t_92c01b0414f870 1-9
+template-7/src/index.ts
+  s_527b2f218802b5::t_92c01b0414f870 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "922d17109cf798d133847273ea5e0ea000830380",
+  "prompts": {},
+  "sessions": {
+    "s_527b2f218802b5": {
+      "agent_id": {
+        "tool": "deepseekharness",
+        "id": "session-406e1c91-e387-46be-b36a-b8351b33d8a3",
+        "model": "kimi-k3"
+      },
+      "human_author": "hanxiao <hanx25@trip.com>"
+    }
+  }
+}
