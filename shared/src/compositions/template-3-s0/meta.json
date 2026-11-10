@@ -1,0 +1,15 @@
+{
+  "id": "template-3-s0",
+  "durationInFrames": 600,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "defaultProps": {
+    "title": "《话术博弈》如何优雅的套出对方的真心话？",
+    "subtitle": "黑金暗色调聊天界面模拟 · 文字排版动画",
+    "bgFrom": "#0f172a",
+    "bgTo": "#020617",
+    "accentFrom": "#38bdf8",
+    "accentTo": "#818cf8"
+  }
+}

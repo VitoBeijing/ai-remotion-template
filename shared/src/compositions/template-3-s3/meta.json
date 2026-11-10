@@ -1,12 +1,12 @@
 {
-  "id": "template-2",
+  "id": "template-3-s3",
   "durationInFrames": 180,
   "fps": 30,
   "width": 1920,
   "height": 1080,
   "defaultProps": {
-    "title": "【vibe知识大赏】傅立叶变换，终于有人把它讲明白了",
-    "subtitle": "极简排版 · 文字排版动画",
+    "title": "《话术博弈》如何优雅的套出对方的真心话？",
+    "subtitle": "图标加文字对比排版 · 图标动效",
     "bgFrom": "#f8fafc",
     "bgTo": "#e2e8f0",
     "accentFrom": "#0f172a",
