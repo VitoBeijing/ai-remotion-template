@@ -1,0 +1,19 @@
+shared/src/compositions/template-3-s0/TemplateComponent.tsx
+  s_8b9929bd0d18b2::t_e80e2c8ddcad62 391
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "b3d0e9f6b0e8e4702649ebfbb72bf7421cd142fb",
+  "prompts": {},
+  "sessions": {
+    "s_8b9929bd0d18b2": {
+      "agent_id": {
+        "tool": "deepseekharness",
+        "id": "session-dd4bcb59-52db-4eff-829d-2fcf1d13cb7d",
+        "model": "DeepSeek-V4-Pro-discount"
+      },
+      "human_author": "hanxiao <hanx25@trip.com>"
+    }
+  }
+}
