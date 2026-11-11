@@ -1,12 +1,12 @@
 {
-  "id": "template-3-s2",
-  "durationInFrames": 600,
+  "id": "template-talk-tactics-s2",
+  "durationInFrames": 240,
   "fps": 30,
   "width": 1920,
   "height": 1080,
   "defaultProps": {
     "title": "《话术博弈》如何优雅的套出对方的真心话？",
-    "subtitle": "极简线框示意图 · 图标动效",
+    "subtitle": "极简排版 · 文字排版动画",
     "bgFrom": "#f8fafc",
     "bgTo": "#e2e8f0",
     "accentFrom": "#0f172a",

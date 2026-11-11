@@ -388,7 +388,7 @@ export const TemplateComponent: React.FC<TemplateProps> = ({
           </div>
 
           <Subtitle
-            text="另一半回家一直刷手机，问就是"没什么"。"
+            text={'另一半回家一直刷手机，问就是"没什么"。'}
             delay={200}
             accent={ACCENT}
           />
