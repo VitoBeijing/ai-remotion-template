@@ -1,0 +1,15 @@
+{
+  "id": "template-minimal-kinetic-typography",
+  "durationInFrames": 180,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "defaultProps": {
+    "title": "【vibe知识大赏】傅立叶变换，终于有人把它讲明白了",
+    "subtitle": "极简排版 · 文字排版动画",
+    "bgFrom": "#f8fafc",
+    "bgTo": "#e2e8f0",
+    "accentFrom": "#0f172a",
+    "accentTo": "#334155"
+  }
+}
